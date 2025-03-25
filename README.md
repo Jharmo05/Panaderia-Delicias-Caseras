@@ -1,7 +1,9 @@
 Panadería "Delicias Caseras"
+
 Este proyecto consiste en el desarrollo de un sistema de gestión para una panadería que permita el manejo eficiente de productos, pedidos, y sus detalles asociados. El sistema facilitará la administración de productos disponibles (como panes, pasteles, y postres), el registro de pedidos de los clientes y la gestión de los detalles específicos de cada pedido. El objetivo es optimizar el control de inventario, asegurar el manejo correcto de los precios, y mejorar la experiencia del cliente.
 
 Problema
+
 La panadería "Delicias Caseras" enfrenta desafíos relacionados con la administración de su inventario y la gestión de los pedidos de los clientes. Actualmente, el registro de productos y pedidos se realiza de manera manual, lo que conlleva errores humanos, pérdida de datos y dificultades para dar seguimiento a los detalles de los pedidos. La panadería requiere un sistema digital que centralice la información, permita un control efectivo del inventario y registre cada pedido de manera organizada.
 
 Características Principales
